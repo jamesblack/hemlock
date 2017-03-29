@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "jest": "^19.0.2",
+    "ramda": "^0.23.0",
+    "standard": "^9.0.2"
+  },
+  "name": "hemlock",
+  "version": "0.0.1",
+  "description": "A trie library",
+  "main": "index.js",
+  "license": "MIT",
+  "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "src/**/*.js"
+    ]
+  }
+}

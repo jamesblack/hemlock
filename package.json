@@ -7,7 +7,7 @@
   "name": "hemlock",
   "version": "0.0.1",
   "description": "A trie library",
-  "main": "index.js",
+  "main": "src/index.js",
   "license": "MIT",
   "jest": {
     "collectCoverage": true,
